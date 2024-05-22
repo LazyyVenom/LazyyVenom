@@ -31,6 +31,8 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 - **LinkedIn:** [https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/anubhav-choubey/)
 - **GitHub:** [github.com/LazyyVenom](https://github.com/LazyyVenom)
 
+![GitHub Stats](https://streak-stats.demolab.com?user=LazyyVenom&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
+
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
 ---
