@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anubhav Choubey!
+# ⚡ Hello, I'm Anubhav Choubey!
 
 ## 🚀 About Me
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
@@ -30,10 +30,12 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 - **Email:** [choubey.anubhav253@gmail.com](mailto:choubey.anubhav253@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/anubhav-choubey/)
 - **GitHub:** [github.com/LazyyVenom](https://github.com/LazyyVenom)
+ 
+Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
+
+---
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=LazyyVenom&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
-
-Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
 ---
 
