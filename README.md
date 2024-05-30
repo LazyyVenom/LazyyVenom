@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm Anubhav Choubey!
+#⚡ Hello, I'm Anubhav Choubey!
 
 ## 🚀 About Me
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
