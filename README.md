@@ -7,7 +7,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 - **Python Development:** Building robust applications and scripts.
 - **Data Science & Machine Learning:** Developing models to uncover insights and make predictions.
 - **Automation with Selenium:** Creating automated workflows and testing frameworks.
-- **Web Development:** Crafting dynamic web applications using Flask, HTML, and CSS.
+- **Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS and JavaScript.
 
 ### 💻 Tech Stack:
 #### Languages:
