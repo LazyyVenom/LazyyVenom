@@ -27,6 +27,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 |----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
+
 ## 📫 Get in Touch
 - **Email:** [choubey.anubhav253@gmail.com](mailto:choubey.anubhav253@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/anubhav-choubey/)
