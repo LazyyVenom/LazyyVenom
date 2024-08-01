@@ -42,4 +42,8 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=LazyyVenom)
+
+---
+
 *This README was generated with ❤️ by Anubhav Choubey*
