@@ -11,9 +11,10 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 ### 💻 Tech Stack:
 #### Languages:
-| Python3 |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| Python3 | Dart | Flutter |
+|---------|------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> |
+
 
 #### Frameworks and Libraries I Use:
 | TensorFlow | PyTorch | Keras | Django | Flask | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
