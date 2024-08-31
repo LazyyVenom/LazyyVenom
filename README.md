@@ -28,25 +28,23 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="30" alt="Numpy logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scikit-learn" height="30" alt="Scikit-learn logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="Matplotlib logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="Flutter logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=conda" height="30" alt="Conda logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="Flutter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="30" alt="Jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="Numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg" height="30" alt="Scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/conda/conda-original-wordmark.svg" height="30" alt="Conda logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
   <img width="12" />
