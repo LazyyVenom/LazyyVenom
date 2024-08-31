@@ -42,9 +42,9 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/conda/conda-original-wordmark.svg" height="30" alt="Conda logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/conda/conda-original.svg" height="30" alt="Conda logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
   <img width="12" />
