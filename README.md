@@ -7,29 +7,53 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 - **Python Development:** Building robust applications and scripts.
 - **Data Science & Machine Learning:** Developing models to uncover insights and make predictions.
 - **Automation with Selenium:** Creating automated workflows and testing frameworks.
-- **Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS and JavaScript.
-- **App Development:** Learning to create android iOS applications using Flutter.
+- **Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS, and JavaScript.
+- **App Development:** Learning to create Android and iOS applications using Flutter.
 
 ### 💻 Tech Stack:
-#### Languages:
-| Python3 | Dart |
-|---------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> |
-
-
-#### Frameworks and Libraries I Use:
-| TensorFlow | PyTorch | Keras | Django | Flask | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV | Flutter |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> |
-
-
-
-#### Utilities And Tools:
-| Conda | Jupyter | Git | MySQL | Firebase |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="55" height="55"/>|
-
-
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30" alt="Keras logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="30" alt="Numpy logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scikit-learn" height="30" alt="Scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="Matplotlib logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="Flutter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=conda" height="30" alt="Conda logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="30" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
+</div>
 
 ## 📫 Get in Touch
 - **Email:** [choubey.anubhav253@gmail.com](mailto:choubey.anubhav253@gmail.com)
