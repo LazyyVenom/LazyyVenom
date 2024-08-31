@@ -71,6 +71,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
 </div>
+
 ---
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=LazyyVenom&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
