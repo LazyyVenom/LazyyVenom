@@ -1,16 +1,16 @@
-# ⚡Hello, I'm Anubhav Choubey!
+## Hello, I'm Anubhav Choubey!
 
-## 🚀 About Me
+### About Me
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
 
-### 🧑‍💻 What I Do:
+### What I Do:
 - **Python Development:** Building robust applications and scripts.
 - **Data Science & Machine Learning:** Developing models to uncover insights and make predictions.
 - **Automation with Selenium:** Creating automated workflows and testing frameworks.
 - **Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS, and JavaScript.
 - **App Development:** Learning to create Android and iOS applications using Flutter.
 
-### 💻 Tech Stack:
+### Tech Stack:
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
   <img width="12" />
@@ -53,11 +53,25 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
 </div>
 
-## 📫 Get in Touch
-- **Email:** [choubey.anubhav253@gmail.com](mailto:choubey.anubhav253@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/anubhav-choubey/)
-- **GitHub:** [github.com/LazyyVenom](https://github.com/LazyyVenom)
- 
+### Get in Touch
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <a href="mailto:choubey.anubhav253@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/anubhav-choubey/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/LazyyVenom">
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.kaggle.com/choubeyanubhav">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
+  </a>
+</div>
+
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech! Open to Collaboration.
 
 ---
