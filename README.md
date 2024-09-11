@@ -11,7 +11,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 - **App Development:** Learning to create Android and iOS applications using Flutter.
 
 ### Tech Stack:
-<div align="center" style="display: flex; flex-wrap: wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart logo" />
@@ -54,7 +54,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 </div>
 
 ### Get in Touch
-<div style="display: flex; flex-wrap: wrap;">
+<div align="left" style="display: flex; flex-wrap: wrap;">
   <a href="mailto:choubey.anubhav253@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
   </a>
@@ -74,23 +74,8 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 ---
 
-<div align="center">
-  
 ![GitHub Stats](https://streak-stats.demolab.com?user=LazyyVenom&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
 
-</div>
-
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LazyyVenom&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lazyyvenom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=LazyyVenom&style=flat-square)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=LazyyVenom)
