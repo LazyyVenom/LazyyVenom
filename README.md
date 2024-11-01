@@ -74,8 +74,4 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 ---
 
-![GitHub Stats](https://streak-stats.demolab.com?user=LazyyVenom&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=LazyyVenom)
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=LazyyVenom" alt="Profile Views" /> </div>
