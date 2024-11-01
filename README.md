@@ -1,7 +1,9 @@
 I'm a **passionate technologist** with a deep interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and applying them to solve **real-world problems**, making tech a bridge between ideas and impactful solutions. My journey began with **Python**, and it’s been an **exciting journey of continuous growth** ever since!
 
 Beyond tech, I have a keen interest in **psychology** and **philosophy**. These fields help me approach problem-solving with a more **nuanced perspective**, blending **analytical thinking** with a deeper understanding of **human behavior** and **thought**. Together, these interests drive me to innovate in ways that are both **technically sound** and **thoughtful**.
-<br>
+
+---
+
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
   <img width="12" />
