@@ -64,6 +64,10 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <a href="https://www.kaggle.com/choubeyanubhav">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
+  <img width="12" />
+  <a href="https://leetcode.com/u/lazyvenom/">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/LeetCode_Logo_1.png" height="30" alt="LeetCode logo" />
+  </a>
 </div>
 
 ---
