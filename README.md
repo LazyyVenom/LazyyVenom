@@ -6,43 +6,43 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30" alt="Keras logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="Flutter logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="Numpy logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="Scikit-learn logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" height="30" alt="Conda logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
-  <img width="6" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
 </div>
 
@@ -52,19 +52,19 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <a href="mailto:choubey.anubhav253@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
   </a>
-  <img width="6" />
+  <img width="3" />
   <a href="https://www.linkedin.com/in/anubhav-choubey/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
   </a>
-  <img width="6" />
+  <img width="3" />
   <a href="https://github.com/LazyyVenom">
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
   </a>
-  <img width="6" />
+  <img width="3" />
   <a href="https://www.kaggle.com/choubeyanubhav">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
-  <img width="6" />
+  <img width="3" />
   <a href="https://leetcode.com/u/lazyvenom/">
     <img src="https://commons.wikimedia.org/wiki/Special:FilePath/LeetCode_Logo_1.png" height="30" alt="LeetCode logo" />
   </a>
