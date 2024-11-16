@@ -67,7 +67,7 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <img width="3" />
   <a href="https://leetcode.com/u/lazyvenom/">
     <img src="https://commons.wikimedia.org/wiki/Special:FilePath/LeetCode_Logo_1.png" height="30" alt="LeetCode logo" />
-  </a>
+  </a> 
 </div>
 
 ---
