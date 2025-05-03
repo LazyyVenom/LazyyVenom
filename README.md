@@ -2,6 +2,8 @@ I'm a **passionate technologist** with a deep interest in **Data Science**, **Ma
  
 Beyond tech, I have a keen interest in **psychology** and **philosophy**. These fields help me approach problem-solving with a more **nuanced perspective**, blending **analytical thinking** with a deeper understanding of **human behavior** and **thought**. Together, these interests drive me to innovate in ways that are both **technically sound** and **thoughtful**.
 
+"I believe in if it works don't touch it but I don't consider slow code as running"
+
 ---
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
