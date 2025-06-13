@@ -2,7 +2,7 @@ I'm a **passionate technologist** with a deep interest in **Data Science**, **Ma
  
 Beyond tech, I have a keen interest in **psychology** and **philosophy**. These fields help me approach problem-solving with a more **nuanced perspective**, blending **analytical thinking** with a deeper understanding of **human behavior** and **thought**. Together, these interests drive me to innovate in ways that are both **technically sound** and **thoughtful**.
 
-"Make It Work -> Make It Right -> Make It Fast -> Make It Beautiful"
+<div align="center"> "Make It Work -> Make It Right -> Make It Fast -> Make It Beautiful" </div>
 
 ---
 
