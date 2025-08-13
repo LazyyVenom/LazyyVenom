@@ -52,8 +52,6 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
 </div>
 
----
-
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="mailto:choubey.anubhav253@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
@@ -75,7 +73,5 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
     <img src="https://commons.wikimedia.org/wiki/Special:FilePath/LeetCode_Logo_1.png" height="30" alt="LeetCode logo" />
   </a> 
 </div>
-
----
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=LazyyVenom" alt="Profile Views" /> </div>
