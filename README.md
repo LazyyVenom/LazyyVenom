@@ -6,9 +6,6 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <blockquote><em>Make It Work → Make It Right → Make It Fast → Make It Beautiful</em></blockquote>
 </div>
 
-
----
-
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
   <img width="1" />
