@@ -6,7 +6,7 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <blockquote><em>Make It Work → Make It Right → Make It Fast → Make It Beautiful</em></blockquote>
 </div>
 
-<br>
+---
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
@@ -54,7 +54,7 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
 </div>
 
-<br>
+---
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="mailto:choubey.anubhav253@gmail.com">
@@ -78,6 +78,6 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   </a> 
 </div>
 
-<br>
+---
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=LazyyVenom" alt="Profile Views" /> </div>
