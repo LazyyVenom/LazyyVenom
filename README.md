@@ -39,10 +39,10 @@ Beyond tech, I have a keen interest in **psychology** and **philosophy**. These 
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS logo" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="GCP logo" />
+<!--   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="GCP logo" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="Azure logo" />
-  <img width="1" />
+  <img width="1" /> -->
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML logo" />
