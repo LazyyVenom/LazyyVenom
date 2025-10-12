@@ -3,8 +3,3 @@ Exploring programming and looking forward to keep improving my self considering 
 <div align="center">
   <blockquote><em>Make It Work → Make It Right → Make It Fast → Make It Beautiful</em></blockquote>
 </div>
-
----
-
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=LazyyVenom" alt="Profile Views" /> </div>
